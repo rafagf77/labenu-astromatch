@@ -1,5 +1,5 @@
 ### ASTROMATCH
-Projeto de aplicativo de relacionamentos desenvolvido no curso Full Stack na Labenu
+Projeto de aplicativo de relacionamentos desenvolvido no curso Full Stack da Labenu
 
 ### O que funciona
 - Tela inicial
